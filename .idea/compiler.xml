@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="plpl_piliao_api" />
+        <module name="plpl_piliao_common" />
+        <module name="plpl_piliao_mapper" />
+        <module name="plpl_piliao_pojo" />
+        <module name="plpl_piliao_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="plpl_piliao" target="1.8" />
+      <module name="plpl_piliao_api" target="1.8" />
+      <module name="plpl_piliao_common" target="1.8" />
+      <module name="plpl_piliao_mapper" target="1.8" />
+      <module name="plpl_piliao_pojo" target="1.8" />
+      <module name="plpl_piliao_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

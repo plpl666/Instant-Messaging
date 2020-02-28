@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/plpl_piliao.iml" filepath="$PROJECT_DIR$/plpl_piliao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plpl_piliao_api/plpl_piliao_api.iml" filepath="$PROJECT_DIR$/plpl_piliao_api/plpl_piliao_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plpl_piliao_common/plpl_piliao_common.iml" filepath="$PROJECT_DIR$/plpl_piliao_common/plpl_piliao_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plpl_piliao_mapper/plpl_piliao_mapper.iml" filepath="$PROJECT_DIR$/plpl_piliao_mapper/plpl_piliao_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plpl_piliao_pojo/plpl_piliao_pojo.iml" filepath="$PROJECT_DIR$/plpl_piliao_pojo/plpl_piliao_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plpl_piliao_service/plpl_piliao_service.iml" filepath="$PROJECT_DIR$/plpl_piliao_service/plpl_piliao_service.iml" />
+    </modules>
+  </component>
+</project>
